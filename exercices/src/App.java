@@ -15,5 +15,7 @@ public class App {
         //Appelle de la méthode d'affichage des animaux
         serviceAnimaux.afficherAnimaux();
 
+
+        //tag
     }
 }
